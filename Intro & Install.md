@@ -20,4 +20,5 @@ DVWA allows users to explore common web vulnerabilities at varying difficulty le
 
 ## DVWA Install
 
-sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
+        sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
+
