@@ -8,7 +8,7 @@ DVWA allows users to explore common web vulnerabilities at varying difficulty le
 Kali Linux
 
 ## Links
-DVWA Repository - https://github.com/digininja/DVWA
-Kali Linux - https://www.kali.org/get-kali/#kali-platforms
-Virtual Box - https://www.virtualbox.org/
-Vm Ware - https://www.vmware.com/
+- DVWA Repository - https://github.com/digininja/DVWA
+- Kali Linux - https://www.kali.org/get-kali/#kali-platforms
+- Virtual Box - https://www.virtualbox.org/
+- Vm Ware - https://www.vmware.com/
