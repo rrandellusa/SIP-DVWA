@@ -1,4 +1,4 @@
-# SIP-DVWA-Home Lab
+# SIP-DVWA - Home Lab
 
 ## DVWA(Damn Vulnerable Web App)
 The Damn Vulnerable Web Application (DVWA) is a PHP/MySQL-based platform designed to help security professionals hone their skills in a safe, legal environment. It also serves as a learning tool for web developers, students, and educators to better understand web application security.
