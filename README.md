@@ -6,5 +6,5 @@ The Damn Vulnerable Web Application (DVWA) is a PHP/MySQL-based platform designe
 DVWA allows users to explore common web vulnerabilities at varying difficulty levels through an intuitive interface. While the platform has both documented and undocumented flaws, this is by design, encouraging users to uncover and exploit as many issues as possible to enhance their learning experience.
 
 ## Lessons
-Intro & Install.md
-Brute Force.md
+- Intro & Install - https://github.com/rrandellusa/SIP-DVWA/blob/main/Intro%20%26%20Install.md
+- Brute Force - https://github.com/rrandellusa/SIP-DVWA/blob/main/Brute%20Force.md
