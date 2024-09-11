@@ -31,3 +31,8 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
 ## Brute Force Methodology
 
 ## Links to learn more
+
+- https://owasp.org/www-community/attacks/Brute_force_attack
+- https://www.symantec.com/connect/articles/password-crackers-ensuring-security-your-password
+- https://www.golinuxcloud.com/brute-force-attack-web-forms
+
