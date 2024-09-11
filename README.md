@@ -7,18 +7,27 @@ DVWA allows users to explore common web vulnerabilities at varying difficulty le
 ## Tools Used In Lesson
 - Kali Linux
 - Burp Suite
+- Foxy Proxy
 
 ## DVWA Install
 
 sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
 
+## Foxy Proxy Install
+1. Open Firefox  dd the Foxy Proxy Standard Browser Exstension https://getfoxyproxy.org/downloads/
+2. Configure proxy for burpsuite
+   1. 
+
+
 ## Links
+
 - Web App
   - DVWA Repository - https://github.com/digininja/DVWA
 - Operating System
   - Kali Linux - https://www.kali.org/get-kali/#kali-platforms
 - Applications
   - Burp Suite - https://portswigger.net/burp/communitydownload
+  - Foxy Proxy - https://getfoxyproxy.org/downloads/
 - Hypervisor Platform
   - Virtual Box - https://www.virtualbox.org/
   - Vm Ware - https://www.vmware.com/
