@@ -1,4 +1,5 @@
-# SIP-DVWA
+# SIP-DVWA - Intro & Install
+
 ## DVWA(Damn Vulnerable Web App) - Home Lab Setup
 The Damn Vulnerable Web Application (DVWA) is a PHP/MySQL-based platform designed to help security professionals hone their skills in a safe, legal environment. It also serves as a learning tool for web developers, students, and educators to better understand web application security.
 
@@ -20,5 +21,5 @@ DVWA allows users to explore common web vulnerabilities at varying difficulty le
 
 ## DVWA Install
 
-        sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
+    sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
 
