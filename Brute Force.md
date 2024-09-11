@@ -6,12 +6,15 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
 - Kali Linux
 - Burp Suite
 - Foxy Proxy Standard
+- DVWA (Damn Vulnerable Web App)
 
 ## Links
 
 - Applications
   - Burp Suite - https://portswigger.net/burp/communitydownload
   - Foxy Proxy - https://getfoxyproxy.org/downloads/
+- Web App
+  - DVWA Repository - https://github.com/digininja/DVWA
 
 ## Foxy Proxy Install
 
@@ -22,4 +25,3 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
    3. click on proxies tab
       - ![2024-09-11_14-46](https://github.com/user-attachments/assets/b8aca22f-c2e2-4a4a-b07a-97b832318c4a)
    4. configure proxy to match aove screeshot
-
