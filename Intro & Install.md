@@ -6,8 +6,7 @@ DVWA allows users to explore common web vulnerabilities at varying difficulty le
 
 ## Tools Used In Lesson
 - Kali Linux
-- Burp Suite
-- Foxy Proxy Standard
+- DVWA (Damn Vulnerable Web App)
 
 ## Links
 
