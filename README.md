@@ -5,13 +5,20 @@ The Damn Vulnerable Web Application (DVWA) is a PHP/MySQL-based platform designe
 DVWA allows users to explore common web vulnerabilities at varying difficulty levels through an intuitive interface. While the platform has both documented and undocumented flaws, this is by design, encouraging users to uncover and exploit as many issues as possible to enhance their learning experience.
 
 ## Tools Used In Lesson
-Kali Linux
+- Kali Linux
+- Burp Suite
+
+## DVWA Install
+
+sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
 
 ## Links
-Web App
-- DVWA Repository - https://github.com/digininja/DVWA
-Operating System
-- Kali Linux - https://www.kali.org/get-kali/#kali-platforms
-Hypervisor Platform
-- Virtual Box - https://www.virtualbox.org/
-- Vm Ware - https://www.vmware.com/
+- Web App
+  - DVWA Repository - https://github.com/digininja/DVWA
+- Operating System
+  - Kali Linux - https://www.kali.org/get-kali/#kali-platforms
+- Applications
+  - Burp Suite - https://portswigger.net/burp/communitydownload
+- Hypervisor Platform
+  - Virtual Box - https://www.virtualbox.org/
+  - Vm Ware - https://www.vmware.com/
