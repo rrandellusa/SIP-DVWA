@@ -35,7 +35,3 @@ sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubu
    3. click on proxies tab
       - ![2024-09-11_14-46](https://github.com/user-attachments/assets/b8aca22f-c2e2-4a4a-b07a-97b832318c4a)
    4. configure proxy to match aove screeshot
-
-## Brute Force DVWA
-
-Brute forcing web applications involves repeatedly attempting to guess login credentials or access sensitive areas by systematically trying different combinations of usernames and passwords. It can exploit weak or common passwords and is often mitigated by rate-limiting, CAPTCHAs, or account lockouts after multiple failed attempts. Effective defenses against brute force attacks include strong password policies, multi-factor authentication, and monitoring for suspicious login patterns.
