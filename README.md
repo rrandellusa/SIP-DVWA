@@ -9,6 +9,19 @@ DVWA allows users to explore common web vulnerabilities at varying difficulty le
 - Burp Suite
 - Foxy Proxy Standard
 
+## Links
+
+- Web App
+  - DVWA Repository - https://github.com/digininja/DVWA
+- Operating System
+  - Kali Linux - https://www.kali.org/get-kali/#kali-platforms
+- Applications
+  - Burp Suite - https://portswigger.net/burp/communitydownload
+  - Foxy Proxy - https://getfoxyproxy.org/downloads/
+- Hypervisor Platform
+  - Virtual Box - https://www.virtualbox.org/
+  - Vm Ware - https://www.vmware.com/
+
 ## DVWA Install
 
 sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
@@ -26,19 +39,3 @@ sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubu
 ## Brute Force DVWA
 
 Brute forcing web applications involves repeatedly attempting to guess login credentials or access sensitive areas by systematically trying different combinations of usernames and passwords. It can exploit weak or common passwords and is often mitigated by rate-limiting, CAPTCHAs, or account lockouts after multiple failed attempts. Effective defenses against brute force attacks include strong password policies, multi-factor authentication, and monitoring for suspicious login patterns.
-
-
-
-
-## Links
-
-- Web App
-  - DVWA Repository - https://github.com/digininja/DVWA
-- Operating System
-  - Kali Linux - https://www.kali.org/get-kali/#kali-platforms
-- Applications
-  - Burp Suite - https://portswigger.net/burp/communitydownload
-  - Foxy Proxy - https://getfoxyproxy.org/downloads/
-- Hypervisor Platform
-  - Virtual Box - https://www.virtualbox.org/
-  - Vm Ware - https://www.vmware.com/
