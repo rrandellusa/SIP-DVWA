@@ -7,4 +7,4 @@ DVWA allows users to explore common web vulnerabilities at varying difficulty le
 
 ## Lessons
 - Intro & Install - https://github.com/rrandellusa/SIP-DVWA/blob/main/Intro%20%26%20Install.md
-- Brute Force - https://github.com/rrandellusa/SIP-DVWA/blob/main/Brute%20Force.md
+- Brute Force - https://github.com/rrandellusa/SIP-DVWA/blob/main/Brute%20Force%20Module.md
