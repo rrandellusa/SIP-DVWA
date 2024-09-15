@@ -24,4 +24,6 @@ DVWA allows users to explore common web vulnerabilities at varying difficulty le
     sudo bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh)"
 
 - Paste into terminal and hit enter and this script will install DVWA
+- Navigate to http://localhost/DVWA/login.php
+- Login - User=admin Password=password
 
