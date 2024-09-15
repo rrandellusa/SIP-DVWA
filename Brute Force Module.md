@@ -7,6 +7,8 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
 ## Tools Used In Lesson
 - Kali Linux
 - Burp Suite
+- Hydra
+- wfuzz
 - Foxy Proxy Standard
 - DVWA (Damn Vulnerable Web App)
 
@@ -15,6 +17,8 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
 - Applications
   - Burp Suite - https://portswigger.net/burp/communitydownload
   - Foxy Proxy - https://getfoxyproxy.org/downloads/
+  - Hydra - https://www.kali.org/tools/hydra/
+  - wFuzz - https://www.kali.org/tools/wfuzz/
 - Web App
   - DVWA Repository - https://github.com/digininja/DVWA
 
@@ -29,6 +33,14 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
    4. configure proxy to match aove screeshot
   
 ## Brute Force Methodology
+
+### Low
+
+### Medium
+
+### High
+
+### Impossible
 
 ## Links to learn more
 
