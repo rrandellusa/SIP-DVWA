@@ -10,6 +10,7 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
 - Hydra
 - wfuzz
 - Foxy Proxy Standard
+- Seclists
 - DVWA (Damn Vulnerable Web App)
 
 ## Links
@@ -21,6 +22,8 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
   - wFuzz - https://www.kali.org/tools/wfuzz/
 - Web App
   - DVWA Repository - https://github.com/digininja/DVWA
+- Wordlist
+  - Seclists- https://www.kali.org/tools/seclists/
 
 ## Foxy Proxy Install
 
