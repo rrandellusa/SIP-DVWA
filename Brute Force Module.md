@@ -8,7 +8,6 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
 - Kali Linux
 - Burp Suite
 - Hydra
-- wfuzz
 - Foxy Proxy Standard
 - Seclists
 - DVWA (Damn Vulnerable Web App)
@@ -19,7 +18,6 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
   - Burp Suite - https://portswigger.net/burp/communitydownload
   - Foxy Proxy - https://getfoxyproxy.org/downloads/
   - Hydra - https://www.kali.org/tools/hydra/
-  - wFuzz - https://www.kali.org/tools/wfuzz/
 - Web App
   - DVWA Repository - https://github.com/digininja/DVWA
 - Wordlist
@@ -41,10 +39,22 @@ Brute forcing web applications involves repeatedly attempting to guess login cre
 
 ## Burp Suite
 
+- In a web browser navigate to the brute force page of the DVWA
+- turn on foxy proxy
+- In Burp go to the proxy tab and turn Intercept on
+- In browser login with any user and pass to fail login
+- In Burp look at the intercepted GET request. Highlight the password you entered and right click      and send it to Intruder.
+- Choose Sniper as attack type
+- Go to Payloads tab and load your password list
+- Click settings tab and add the Word Welcome to the GREP extract to tag results
+- Run attack
+- 
 ## Hydra
 
-- Get PHPSESSID by inspecting the brute force login page in web browser. The ID is found under network tab under html type.
-- login with known credentials and follow the URL for the user picture to find the directory of users profile image. Use the names to make a user list .txt file
+- Get PHPSESSID by inspecting the brute force login page in web browser. The ID is found under
+  network tab under html type.
+- login with known credentials and follow the URL for the user picture to find the directory of
+  users profile image. Use the names to make a user list .txt file
 - Use this command and replace the PHPSESSID with your ID
 
 ```
